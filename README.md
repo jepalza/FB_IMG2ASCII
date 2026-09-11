@@ -9,6 +9,9 @@ El programa lee cualquier tamaño de imagen, y la convierte al mismo tamaño de 
 
 La rutina de escalado es originaria de D.J.Peters en el foro Freebasic (ver código para saber dónde), y la rutina de conversión a ascii es del foro RFO-BASIC (igualmente, en el coódigo indico su autor original).  
 
-![img1](https://github.com/jepalza/FB_IMG2ASCII/blob/main/img/img1.jpg)
-![img2](https://github.com/jepalza/FB_IMG2ASCII/blob/main/img/img2.bmp)
-![img3](https://github.com/jepalza/FB_IMG2ASCII/blob/main/img/img3.bmp)
+![img1](https://github.com/jepalza/FB_IMG2ASCII/blob/main/img/img1.jpg)  
+
+![img2](https://github.com/jepalza/FB_IMG2ASCII/blob/main/img/img2.BMP)  
+
+![img3](https://github.com/jepalza/FB_IMG2ASCII/blob/main/img/img3.BMP)  
+
